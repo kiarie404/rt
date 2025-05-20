@@ -1,0 +1,15 @@
+# Summary
+
+- [What](./what_we_will_do.md)
+- [Why?](./why_do_this.md)
+- [What are runtimes](./what_are_runtimes.md)
+- [Types](./types.md)  
+- [The C Runtime](./the_c_runtime.md)
+- [Explanations](./explanations.md)
+- [Clarity](./clarity.md)
+- [implementation](./implementation.md)
+  - [setup](./setup.md)
+  - [inline_asm](./example_inline.md)
+  - [global_asm](./example.md)
+  - [pure_files](example.md)
+- [others and arbitrary links](by_he_way.md)
